@@ -12,5 +12,5 @@ Usage method：
 
 4.Using neural network model to train data, train.py, get a trained model. (computer execution)
 
-5.Auto-driving on the original runway can be realized by using zth_drive and trained model in the raspberry dispatch car and loading the model. (Raspberry Pi execution)
+5.Auto-driving on the original runway can be realized by using drive.py and trained model in the raspberry dispatch car and loading the model. (Raspberry Pi execution)
 
